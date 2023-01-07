@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  padding-top: 4.5rem;
+  padding-bottom: calc(5rem - 1.6875rem);
+  background: var(--gray-700);
+}
+
+.header img {
+  margin: 0 auto;
+}

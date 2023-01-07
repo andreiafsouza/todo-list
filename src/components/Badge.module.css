@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--gray-200);
+  font-weight: 700;
+  font-size: 0.75rem;
+  line-height: 0.9375rem;
+  padding: 0.125rem 0.5rem;
+  background: var(--gray-400);
+  border-radius: 1000px;
+}
